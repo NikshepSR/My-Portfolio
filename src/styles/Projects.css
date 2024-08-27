@@ -1,0 +1,42 @@
+.projects {
+  padding: 2rem;
+  color: white;
+  text-align: center;
+}
+
+.project-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.project-card {
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 8px;
+  width: 150px;
+  cursor: pointer;
+  transition: transform 0.2s;
+  text-align: center;
+
+  width: 90%;
+  height: auto;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.project-card h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.project-card p {
+  font-size: 1rem;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+  /* background: linear-gradient(135deg, #55524f, #000000); */
+}

@@ -1,0 +1,17 @@
+/* Slide-in from bottom */
+@keyframes slideInFromBottom {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slide-in {
+  animation: slideInFromBottom 1.5s ease-out forwards;
+  opacity: 0; /* Initial state for the animation */
+  transform: translateY(100%); /* Initial state for the animation */
+}
