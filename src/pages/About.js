@@ -87,7 +87,7 @@ const About = () => {
                 className="experience-box"
                 onClick={() => toggleCertificate("AuMds")}
               >
-                <h3>Internship at AuMds (Au Multidimensional Solutions)</h3>
+                <h3>AuMds (Au Multidimensional Solutions)</h3>
                 <p>Front-End Developer InternDuration: 3 Months</p>
               </div>
               <div
@@ -99,6 +99,10 @@ const About = () => {
                   Troubleshooting and Project Management Engine Dismantling and
                   Assembly of a 4 stroke diesel engine
                 </p>
+              </div>
+              <div className="experience-box">
+                <h3>Taxian </h3>
+                <p>Software developer Intern</p>
               </div>
             </section>
           )}
