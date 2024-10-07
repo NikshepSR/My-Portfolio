@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.c139417e.css",
-    "main.js": "/My-Portfolio/static/js/main.ec45e90d.js",
+    "main.js": "/My-Portfolio/static/js/main.73cb5a2c.js",
     "static/media/NandiToyota-Certificate.png": "/My-Portfolio/static/media/NandiToyota-Certificate.5b8a51e3145f084dddd4.png",
     "static/media/AuMds-Certifiacte.jpg": "/My-Portfolio/static/media/AuMds-Certifiacte.b12ea3bd4842720c072f.jpg",
     "static/media/Tap-Certificate.jpg": "/My-Portfolio/static/media/Tap-Certificate.7732b6d3a040e4131956.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.c139417e.css.map": "/My-Portfolio/static/css/main.c139417e.css.map",
-    "main.ec45e90d.js.map": "/My-Portfolio/static/js/main.ec45e90d.js.map"
+    "main.73cb5a2c.js.map": "/My-Portfolio/static/js/main.73cb5a2c.js.map"
   },
   "entrypoints": [
     "static/css/main.c139417e.css",
-    "static/js/main.ec45e90d.js"
+    "static/js/main.73cb5a2c.js"
   ]
 }
