@@ -83,6 +83,10 @@ const About = () => {
 
           {activeTab === "experience" && (
             <section className="experience">
+              <div className="experience-box">
+                <h3>HDFC</h3>
+                <p>Data Engineer</p>
+              </div>
               <div
                 className="experience-box"
                 onClick={() => toggleCertificate("AuMds")}
