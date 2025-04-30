@@ -4,12 +4,7 @@ import SlideInWrapper from "../components/SlideInWrapper";
 
 const Home = () => {
   const [textIndex, setTextIndex] = useState(0);
-  const texts = [
-    "Data Engineer",
-    "Front End Developer",
-    "Content Creator",
-    "Automobile Engineer",
-  ];
+  const texts = ["Data Engineer", "Front End Developer", "Automobile Engineer"];
 
   useEffect(() => {
     const interval = setInterval(() => {
