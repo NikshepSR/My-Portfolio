@@ -5,10 +5,10 @@ import SlideInWrapper from "../components/SlideInWrapper";
 const Home = () => {
   const [textIndex, setTextIndex] = useState(0);
   const texts = [
+    "Data Engineer",
     "Front End Developer",
     "Content Creator",
-    "Data Engineer",
-    "Aspiring Engineer",
+    "Automobile Engineer",
   ];
 
   useEffect(() => {
